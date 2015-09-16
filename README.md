@@ -2,4 +2,4 @@
 Initial GitHub directory
 ========================
 
-Testing commit functionality
+Testing commit functionality, as well as the message functionality
